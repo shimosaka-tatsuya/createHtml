@@ -1,0 +1,40 @@
+{
+  "name": "senchawan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimosaka-tatsuya/senchawan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimosaka-tatsuya/senchawan/issues"
+  },
+  "homepage": "https://github.com/shimosaka-tatsuya/senchawan#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "browser-sync": "^2.24.7",
+    "cssnano": "^4.1.3",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-connect": "^5.6.1",
+    "gulp-data": "^1.3.1",
+    "gulp-ejs": "^3.2.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-svgmin": "^2.1.0",
+    "gulp-uglify": "^3.0.1",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^6.0.0",
+    "merge-stream": "^1.0.1",
+    "postcss-custom-properties": "^8.0.6",
+    "postcss-import": "^12.0.0",
+    "postcss-nested": "^4.1.0"
+  }
+}

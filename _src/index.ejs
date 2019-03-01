@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<body>
+
+<ul>
+<% data.forEach(function(day){ %>
+	<li>
+		<dl>
+			<dt><%= day.title %></dt>
+			<dd><%= day.caption %></dd>
+		</dl>
+	</li>
+<% }) %>
+</ul>
+
+</body>
+</html>
